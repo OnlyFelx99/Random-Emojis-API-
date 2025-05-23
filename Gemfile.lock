@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.2.8)
+    rack-protection (3.1.0)
+      rack
+    sinatra (3.1.0)
+      rack (~> 2.2)
+      rack-protection (= 3.1.0)
+      tilt
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sinatra
+
+RUBY VERSION
+   ruby 3.4.1
+
+BUNDLED WITH
+   2.5.6
